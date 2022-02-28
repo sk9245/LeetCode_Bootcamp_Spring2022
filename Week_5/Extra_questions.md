@@ -1,0 +1,10 @@
+1. https://leetcode.com/problems/deepest-leaves-sum/
+2. https://leetcode.com/problems/range-sum-of-bst/
+3. https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+4. https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+5. https://leetcode.com/problems/merge-two-binary-trees/
+6. https://leetcode.com/problems/increasing-order-search-tree/
+7. https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+8. https://leetcode.com/problems/search-in-a-binary-search-tree/
+9. https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+10. https://leetcode.com/problems/maximum-depth-of-binary-tree/
